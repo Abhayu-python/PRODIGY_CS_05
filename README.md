@@ -26,17 +26,15 @@ Research & Development: It's a rich area for research in cryptography, digital w
 Resource Efficiency: Depending on the algorithm, some pixel-based methods can be computationally lighter than complex block ciphers, especially for real-time applications.
 
 # ✍️ Author
-[Your Name/Alias]
+Name : Abhay Pratap
 
-A passionate enthusiast/developer/researcher in the fields of image processing and cryptography.
-
-🔗 Link to your GitHub Profile (Replace your-username)
+(Task 5 for internship at Prodigy InfoTech).
 
 # 📧 Contact
 Feel free to reach out for questions, collaborations, or just to say hello!
 
-Email: your.email@example.com (Replace with your email)
+[LinkedIn](https://www.linkedin.com/in/ap-saini-5aa231302/)
 
-LinkedIn: Link to your LinkedIn Profile (Optional, replace with your LinkedIn)
+[Email](pratapabhay8256@gmail.com)
 
 This README is a starting point. Feel free to expand it with specific project details, installation instructions, usage examples, and more! 🚀
